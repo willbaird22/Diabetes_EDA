@@ -1,4 +1,6 @@
-# Diabetes_EDA : Data cleaning and exploratory analysis using Python (pandas, numpy, matplotlib, seaborn)
+# Diabetes_EDA 
+Data cleaning and exploratory analysis using Python (pandas, numpy, matplotlib, seaborn)
+
 Note: This dataset is from the National Institute of Diabetes and Digestive and Kidney Diseases. It contains the following columns:
 
 Pregnancies: Number of times pregnant
